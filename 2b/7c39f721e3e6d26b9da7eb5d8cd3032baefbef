@@ -1,0 +1,21 @@
+glibc-2.44.yaml
+  s_99ee705e4d36a0::t_a69f68c4e908d1 5,94
+glibc-2.44/CVE-2026-84243.patch
+  s_99ee705e4d36a0::t_8d8bb7c37ad088 1-181
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2b7c39f721e3e6d26b9da7eb5d8cd3032baefbef",
+  "prompts": {},
+  "sessions": {
+    "s_99ee705e4d36a0": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a1b0ba-6ec0-77c8-9af7-69879767b1f4",
+        "model": "glm-5.3"
+      },
+      "human_author": "antonioc-cl <antonioc-cl@users.noreply.github.com>"
+    }
+  }
+}
